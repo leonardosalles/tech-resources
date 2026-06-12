@@ -1,0 +1,25 @@
+## Mentoring Steps for Luiz Gabriel
+
+#### 1. Learning Git basics
+
+From June 15 to June 19.
+
+What is a:
+- ```repository```
+- ```branch```
+- ```commit```
+- ```pull```
+- ```push```
+
+Then as action items:
+- How to create a ```repository```
+- Create your first ```branch```
+- Do your first ```commit```
+- Do your first ```push```
+
+You can use Github to create your repository.
+
+June 22: ```Lightning Talk``` about Git, 5 minutes to explain content above.
+  
+
+#### 2. TDB
